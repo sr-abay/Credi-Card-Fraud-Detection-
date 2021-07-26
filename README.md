@@ -1,8 +1,7 @@
-# Credi-Card-Fraud-Detection
+# Credit-Card-Fraud-Detection
 
 
-##The model is developed with the dataset from kaggle.com
-
+#The model is developed with the dataset from kaggle.com
 
 
 
